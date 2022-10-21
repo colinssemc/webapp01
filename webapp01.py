@@ -49,6 +49,7 @@ elif choice == "Texto_Markdown":
     )
 elif choice == "Inserir_Figura":
     st.image(image01, width=800, caption='Rótulo da Imagem 01') 
-    ( 2, 3, 3, 5, 7 e 10 é 30 dividido por 6, que é 5.
+
+
 
 
